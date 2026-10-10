@@ -16,7 +16,7 @@ My research focuses on **natural language processing (NLP)** and **machine learn
 - **Hallucination in Vision-Language Models (VLM)**
 - **LLM Truthfulness and Interpretability**
 
-I have been a Research Intern at [MINIMAX](https://www.minimaxi.com/), **Tencent WXG**, and **Shanghai AI Lab**. See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and my [Publications page]({{ "/publications/" | relative_url }}) for details.
+I have been a Research Intern at **MINIMAX**, **Tencent WXG**, and **Shanghai AI Lab**. See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and my [Publications page]({{ "/publications/" | relative_url }}) for details.
 
 Education
 ======
